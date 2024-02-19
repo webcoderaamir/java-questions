@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class conceptOne {
 
    // Ques 10. Write a program to print Fibonacci series of n terms where n is input by user :

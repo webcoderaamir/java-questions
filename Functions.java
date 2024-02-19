@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Functions {
 
     // Ques. Recursive functions
