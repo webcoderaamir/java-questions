@@ -2,40 +2,39 @@ import java.util.Scanner;
 
 public class Arrays {
 
-    // 4 Ques. Take an array of numbers as input and check if it is an array sorted in ascending order.
+    // 5 Ques. Take an array of numbers as input and check if it is an array sorted in ascending order.
     // public static void main(String[] args) {
     //     Scanner sc = new Scanner(System.in);
-
+    
     //     System.out.print("Enter the size of ArrayList : ");
     //     int size = sc.nextInt();
     //     int numbers[] = new int[size];
-
+    
     //     // input
     //     for (int i = 0; i < size; i++) {
     //         System.out.print("Input : ");
     //         numbers[i] = sc.nextInt();
     //     }
-
+    
     //     // output
     //     boolean isAscending = true;
-
+    
     //     for (int i = 0; i < numbers.length - 1; i++) {
     //         if (numbers[i] > numbers[i + 1]) {
     //             isAscending = false;
     //         }
     //     }
-
+    
     //     if (isAscending) {
     //         System.out.println("Array is sorted in ascending order.");
     //     } else {
     //         System.out.println("Array is not sorted in ascending order.");
     //     }
     // } 
-
-
-
     
-    // 3 Ques. Find the maximum & minimum number in an array of integers. 
+    
+
+    // 4 Ques. Find the maximum & minimum number in an array of integers. 
     // public static void main(String[] args) {
     //     Scanner sc = new Scanner(System.in);
 
@@ -64,6 +63,7 @@ public class Arrays {
     //     System.out.println("Maximum : " + max);
     //     System.out.println("Minimum : " + min);
     // }
+    
 
 
 
@@ -107,7 +107,7 @@ public class Arrays {
 
 
 
-    // 2 Ques. Take an array of names as input from the user and print them on the screen.
+    // 3 Ques. Take an array of names as input from the user and print them on the screen.
     // public static void main(String[] args) {
     //     Scanner sc = new Scanner(System.in);
 
@@ -129,8 +129,7 @@ public class Arrays {
 
 
 
-
-    // 1 Ques. Qs. Take an array as input from the user. Search for a given number x and print the index at which it occurs.
+    // 2 Ques. Qs. Take an array as input from the user. Search for a given number x and print the index at which it occurs.
     // public static void main(String[] args) {
     //     Scanner sc = new Scanner(System.in);
 
@@ -155,11 +154,12 @@ public class Arrays {
     //         }
     //     }
     // }
+    
 
 
 
+    // 1. take array size, 2. ask input number, 3. print number 
     // public static void main(String[] args) {
-    //     // 1. take array size, 2. ask input number, 3. print number 
     //     Scanner sc = new Scanner(System.in);
 
     //     System.out.print("Size of Arrays : ");  // ---> 1
@@ -199,3 +199,10 @@ public class Arrays {
     // }
 
 }
+
+
+
+
+    
+
+
